@@ -1,3 +1,42 @@
+# Supabase Starter Kit + Drizzle
+
+## additions made
+
+- pg
+- drizzle-orm
+- drizzle-kit
+- drizzle-kit
+- faker (for seeding)
+
+### ways to use
+
+1. Clone this repo & install dependencies
+
+```
+git clone https://github.com/nathan-websculpt/supabase_auth_drizzle_boilerplate.git PROJ_NAME
+cd PROJ_NAME
+npm i
+```
+
+#### OR
+
+2. Start from scratch
+
+```
+npx create-next-app -e with-supabase
+cd PROJ_NAME
+npm i drizzle-orm drizzle-zod pg dotenv dotenv-expand
+npm i -D drizzle-kit @types/pg eslint-plugin-drizzle tsx @faker-js/faker
+```
+
+
+Learn more about the [Supabase Template](https://supabase.com/docs/guides/getting-started/quickstarts/nextjs)
+
+<br>
+<br>
+
+#### Next.js and Supabase Starter Kit 🧐 
+
 <a href="https://demo-nextjs-with-supabase.vercel.app/">
   <img alt="Next.js and Supabase Starter Kit - the fastest way to build apps with Next.js and Supabase" src="https://demo-nextjs-with-supabase.vercel.app/opengraph-image.png">
   <h1 align="center">Next.js and Supabase Starter Kit</h1>
