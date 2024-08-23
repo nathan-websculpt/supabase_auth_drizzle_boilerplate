@@ -1,11 +1,12 @@
 # Supabase Starter Kit + Drizzle
 
-## additions made
+### additions made
 
 - pg
 - drizzle-orm
 - drizzle-kit
-- drizzle-kit
+- drizzle-zod
+- tsx
 - faker (for seeding)
 
 ### ways to use
@@ -35,7 +36,7 @@ Learn more about the [Supabase Template](https://supabase.com/docs/guides/gettin
 <br>
 <br>
 
-#### Next.js and Supabase Starter Kit 🧐 
+## Next.js and Supabase Starter Kit 🧐 
 
 <a href="https://demo-nextjs-with-supabase.vercel.app/">
   <img alt="Next.js and Supabase Starter Kit - the fastest way to build apps with Next.js and Supabase" src="https://demo-nextjs-with-supabase.vercel.app/opengraph-image.png">
